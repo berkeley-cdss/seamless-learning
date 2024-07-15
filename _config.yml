@@ -1,0 +1,12 @@
+# Jekyll Website Config.
+
+baseurl: /seamless-learning/
+url: https://berkeley-cdss.github.io/
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+title: Seamless Learning
+authors: Lisa Yan, Michael Ball
+
+plugins:
+  - jekyll-remote-theme
