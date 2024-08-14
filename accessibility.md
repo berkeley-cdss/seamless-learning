@@ -1,4 +1,6 @@
 # Seamless Learning Accessibility Workshop
+{:.no_toc}
+
 * **Dates**: Monday 8/19/2024 - Tuesday 8/20/2024
 * **Times**: 10:10am - 5:30pm
 * **Location**: Soda 380, online by request
@@ -11,6 +13,10 @@ Workshop Goals:
 * Successfully make compliant formats of an entire course website OR a chunk of course materials, e.g., 4 weeks of the semester.
 * Determine processes creating accessibility-compliant web material for other aspects of your course.
 * Contribute to the set of go-to solutions that can be applied to similar classes in EECS, Data Science, and Statistics.
+
+Jump to:
+* TOC
+{:toc}
 
 ## Prework
 * Log in to SiteImprove.
