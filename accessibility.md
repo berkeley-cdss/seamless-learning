@@ -5,13 +5,14 @@
 * **Times**: 10:10am - 5:30pm
 * **Location**: Soda 380, online by request
 * **Organizers**: Professors Michael Ball and Lisa Yan, EECS and Data Science
-* This workshop is open to all UC Berkeley EECS/Data Science/Statistics ASEs, even if you did not register. If you did not register ahead of time but are interested in attending, please send Michael and Lisa an email or Slack message so that (at minimum) we can plan for extra food.
 
-Workshop Goals: 
+**Attendance**: This workshop is open to all UC Berkeley EECS/Data Science/Statistics ASEs, even if you did not register. If you did not register ahead of time but are interested in attending, please send Michael and Lisa an email or Slack message so that (at minimum) we can plan for extra food.
+
+**Workshop Goals**: 
 * Know what assistive technologies are.
 * Understand WCAG and accessibility guidelines and compliance processes on campus.
 * Successfully make compliant formats of an entire course website OR a chunk of course materials, e.g., 4 weeks of the semester.
-* Determine processes creating accessibility-compliant web material for other aspects of your course.
+* Determine processes creating accessibility-compliant web material for other aspects of your course for the current semester and going forward.
 * Contribute to the set of go-to solutions that can be applied to similar classes in EECS, Data Science, and Statistics.
 
 Jump to:

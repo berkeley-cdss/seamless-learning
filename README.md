@@ -66,6 +66,11 @@ We run a monthly lunch for EECS, Data Science, and Statistics TAs and instructor
 * All Tools Lunches Slides (requires UC Berkeley log-in): [[link](https://drive.google.com/drive/folders/1IEKKlv2f8ibPgFQPbAPjOkKzw5cgUzdz?usp=drive_link)]
 * If you're a faculty member or staff affiliated with RTL and CDSS and you'd like to join our invitation list, please contact the Seamless Learning co-PIs.
 
+### Seamless Learning Workshops
+
+* June 2024: Custom Course Tools
+* August 2024: Accessibility. [Workshop page](/accessibility)
+
 ### Informational Spreadsheets
 
 If you'd like access to any of the below spreadsheets, please contact the Seamless Learning Co-PIs:
