@@ -1,3 +1,10 @@
+---
+title: Summer 2024 Web A11Y Workshop
+path: /accessibility/
+redirect_form:
+ - /a11y/
+---
+
 # Seamless Learning Accessibility Workshop
 {:.no_toc}
 
