@@ -2,7 +2,7 @@
 title: Summer 2024 Web A11Y Workshop
 path: /accessibility/
 redirect_from:
- - /a11y/
+ - a11y/
 ---
 
 # Seamless Learning Accessibility Workshop
