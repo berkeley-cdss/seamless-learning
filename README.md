@@ -69,7 +69,7 @@ We run a monthly lunch for EECS, Data Science, and Statistics TAs and instructor
 ### Seamless Learning Workshops
 
 * June 2024: Custom Course Tools
-* August 2024: Accessibility. [Workshop page](/accessibility)
+* August 2024: Accessibility. [Workshop page]({{site.base_url}}/accessibility)
 
 ### Informational Spreadsheets
 
