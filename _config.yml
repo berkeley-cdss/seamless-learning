@@ -10,3 +10,4 @@ authors: Lisa Yan, Michael Ball
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
