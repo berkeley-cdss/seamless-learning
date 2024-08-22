@@ -28,7 +28,9 @@ Contact the PI team with any general questions:
 
 ## Announcements
 
-* **August 2024**: We held our Accessibility Workshop. TAs, past and present, explored options for creating digital accessible content. This workshop was held in collaboration with CoE Accessibility and other course staff. Access the [workshop page]({{site.base_url}}a11y-workshop) for more information and resources.
+* **August 2024**: We held our Accessibility Workshop. TAs, past and present, explored options for creating digital accessible content. This workshop was held in collaboration with CoE Accessibility and other course staff.
+  * Access the [workshop page]({{site.base_url}}a11y-workshop) for more information and resources.
+  * Over 20 TAs across EECS and Data Science contributed to our [a11y Course Resource Document]({{site.base_url}}a11y)! Check out this document to implement accessibility (a11y) on your own public course resources.
 
 * **June 2024**: We held our inaugural Seamless Learning Student Assistant Workshop. Students had a week to create some pretty cool projects, and we hosted some awesome talks thanks to the Research, Teaching, and Learning Services staff team.
   * Workshop schedule: [[link](https://docs.google.com/document/d/1Xt-oWXizTSk3Vj44XA5ZchvmrkEk0oU49_AUOwJEigs/edit?usp=sharing)]
