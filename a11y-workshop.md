@@ -1,8 +1,8 @@
 ---
 title: Summer 2024 Web A11Y Workshop
-path: /accessibility/
+path: /a11y-workshop/
 redirect_from:
- - a11y/
+ - accessibility/
 ---
 
 # Seamless Learning Accessibility Workshop
@@ -35,6 +35,7 @@ These will be updated throughout the workshop. For workshop recordings, please c
 * [Full Workshop Google Drive](https://drive.google.com/drive/folders/1-_nIXLqzxq8yB02U-6kdKqSfLM1n54RF?usp=drive_link)
 * [Workshop Slidedeck](https://docs.google.com/presentation/d/1X05oNONc3sxL3vcmUUKTCO7tYpAMiU1LNhiL_dHQRf0/edit?usp=drive_link)
 * [Website Accessiblity Checklist](https://docs.google.com/document/d/1UlgUX-FvGBtcqX-yazBoAOzvgGrv93J9dU6mEbrEmJs/edit?usp=drive_link) a general checklist of action items for any course website. Also includes the UC Berkeley checklists for content creators and developers.
+* [a11y Course Resource Document]({{site.base_url}}a11y)
 
 ## Prework
 * Log in to SiteImprove.
@@ -59,8 +60,8 @@ These will be updated throughout the workshop. For workshop recordings, please c
 | 12:00pm  | \[ Break \] Lunch |
 | 1:00pm  | \[ Talk \] WCAG details and Dev Tools<br/>_Michael Ball_ |
 | 1:45pm  | Project work time |
-| 3:00pm  | \[ Break \] Coffee and Snacks |
-| 3:30pm | Project work time |
+| 3:30pm  | \[ Break \] Coffee and Snacks |
+| 3:45pm | Project work time |
 | ~5:00pm | **End of Day 1** |
 | 5:30pm | Optional Hike |
 
