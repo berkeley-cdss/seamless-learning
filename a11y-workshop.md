@@ -15,27 +15,29 @@ redirect_from:
 
 **Attendance**: This workshop is open to all UC Berkeley EECS/Data Science/Statistics ASEs, even if you did not register. If you did not register ahead of time but are interested in attending, please send Michael and Lisa an email or Slack message so that (at minimum) we can plan for extra food.
 
+
 Jump to:
 * TOC
 {:toc}
 
-## Workshop Goals and Resources
+## Workshop Resources
 
-### Workshop Goals
+Over 20 TAs across EECS and Data Science contributed to our **a11y Course Resource Document** at [{{site.base_url}}a11y]({{site.base_url}}a11y)! Check out this document to implement accessibility (a11y) on your own public course resources.
+
+Additional workshop resources:
+* [Full Workshop Google Drive](https://drive.google.com/drive/folders/1-_nIXLqzxq8yB02U-6kdKqSfLM1n54RF?usp=drive_link)
+* [Workshop Slidedeck](https://docs.google.com/presentation/d/1X05oNONc3sxL3vcmUUKTCO7tYpAMiU1LNhiL_dHQRf0/edit?usp=drive_link)
+* [Website Accessiblity Checklist](https://docs.google.com/document/d/1UlgUX-FvGBtcqX-yazBoAOzvgGrv93J9dU6mEbrEmJs/edit?usp=drive_link) a general checklist of action items for any course website. Also includes the UC Berkeley checklists for content creators and developers.
+
+If you are interested in recordings of the workshop sessions, please email [seamless-learning@berkeley.edu](mailto:seamless-learning@berkeley.edu).
+
+## Workshop Goals
 
 * Know what assistive technologies are.
 * Understand WCAG and accessibility guidelines and compliance processes on campus.
 * Successfully make compliant formats of an entire course website OR a chunk of course materials, e.g., 4 weeks of the semester.
 * Determine processes creating accessibility-compliant web material for other aspects of your course for the current semester and going forward.
 * Contribute to the set of go-to solutions that can be applied to similar classes in EECS, Data Science, and Statistics.
-
-### Workshop Resources
-
-These will be updated throughout the workshop. For workshop recordings, please contact the organizers directly.
-* [Full Workshop Google Drive](https://drive.google.com/drive/folders/1-_nIXLqzxq8yB02U-6kdKqSfLM1n54RF?usp=drive_link)
-* [Workshop Slidedeck](https://docs.google.com/presentation/d/1X05oNONc3sxL3vcmUUKTCO7tYpAMiU1LNhiL_dHQRf0/edit?usp=drive_link)
-* [Website Accessiblity Checklist](https://docs.google.com/document/d/1UlgUX-FvGBtcqX-yazBoAOzvgGrv93J9dU6mEbrEmJs/edit?usp=drive_link) a general checklist of action items for any course website. Also includes the UC Berkeley checklists for content creators and developers.
-* [a11y Course Resource Document]({{site.base_url}}a11y)
 
 ## Prework
 * Log in to SiteImprove.
