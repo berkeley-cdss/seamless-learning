@@ -22,7 +22,7 @@ Jump to:
 
 ## Workshop Resources
 
-Over 20 TAs across EECS and Data Science contributed to our **a11y Course Resource Document** at [{{site.base_url}}a11y]({{site.base_url}}a11y)! Check out this document to implement accessibility (a11y) on your own public course resources.
+Over 20 TAs across EECS and Data Science contributed to our **[a11y Course Resource Document]({{site.base_url}}a11y)**! Check out this document to implement accessibility (a11y) on your own public course resources.
 
 Additional workshop resources:
 * [Full Workshop Google Drive](https://drive.google.com/drive/folders/1-_nIXLqzxq8yB02U-6kdKqSfLM1n54RF?usp=drive_link)
