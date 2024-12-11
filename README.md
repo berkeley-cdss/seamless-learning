@@ -20,17 +20,26 @@ Contact the PI team with any general questions:
 * Co-PI: Michael Ball (he/him), EECS Lecturer. ball at berkeley dot edu
 
 ### Students
-* Yu Long (graduated May 2024)
-* Jordan Schwartz
+
+AY24-25:
+
 * Rebecca Dang
-* Yuerou Tang (graduated May 2024) (graduated May 2024)
-* Stephanie Xu
+* Conan Smallwood
+* Edwin Vargas
+
+Past students:
+* (AY23-24) Yu Long, Jordan Schwartz, Yuerou Tang, Stephanie Xu
 
 ## Announcements
+
+* **Fall 2024**: We held our singular Tools Lunch this semester. Fall 2024 TAs and teaching faculty from 9 different courses presented lightning talks and cool demos of discussion/grading management, autograders, teaching visualizations, accessible features, exam writing, and much more. We also heard some broader campus Learning Tools updates from the LET Service Lead, Lisha Bornilla.
+  * Check out the meeting's [Tools Lunch slides](https://docs.google.com/presentation/d/1bKdM0Kw7eHNIF8I4-9-CwXZAd6IyoT0Bua-DA9MONg4/edit?usp=drive_link)! (requires UC Berkeley log-in)
+  * If you are interested in forming an Ed Discussion Community of Practice, piloting Peerceptiv, or using discussion checkpoints on bCourses, please check out the slidedeck above for email contacts!
 
 * **August 2024**: We held our Accessibility Workshop. TAs, past and present, explored options for creating digital accessible content. This workshop was held in collaboration with CoE Accessibility and other course staff.
   * Access the [workshop page]({{site.base_url}}a11y-workshop) for more information and resources.
   * Over 20 TAs across EECS and Data Science contributed to our [a11y Course Resource Document]({{site.base_url}}a11y)! Check out this document to implement accessibility (a11y) on your own public course resources.
+  * We also have a Berkeley Class Template ([GitHub](https://github.com/berkeley-cdss/berkeley-class-site)), a template heavily adapted from Just the Class (already used by many of our courses) that meets online web accessibility standards. Please check it out below, and consider migrating your course website to the Seamless Learning website template!
 
 * **June 2024**: We held our inaugural Seamless Learning Student Assistant Workshop. Students had a week to create some pretty cool projects, and we hosted some awesome talks thanks to the Research, Teaching, and Learning Services staff team.
   * Workshop schedule: [[link](https://docs.google.com/document/d/1Xt-oWXizTSk3Vj44XA5ZchvmrkEk0oU49_AUOwJEigs/edit?usp=sharing)]
