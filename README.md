@@ -32,7 +32,7 @@ Past students:
 
 ## Announcements
 
-* **Fall 2024**: We held our singular Tools Lunch this semester. Fall 2024 TAs and teaching faculty from 9 different courses presented lightning talks and cool demos of discussion/grading management, autograders, teaching visualizations, accessible features, exam writing, and much more. We also heard some broader campus Learning Tools updates from the LET Service Lead, Lisha Bornilla.
+* **December 2024**: We held our singular Tools Lunch this semester. Fall 2024 TAs and teaching faculty from 9 different courses presented lightning talks and cool demos of discussion/grading management, autograders, teaching visualizations, accessible features, exam writing, and much more. We also heard some broader campus Learning Tools updates from the LET Service Lead, Lisha Bornilla.
   * Check out the meeting's [Tools Lunch slides](https://docs.google.com/presentation/d/1bKdM0Kw7eHNIF8I4-9-CwXZAd6IyoT0Bua-DA9MONg4/edit?usp=drive_link)! (requires UC Berkeley log-in)
   * If you are interested in forming an Ed Discussion Community of Practice, piloting Peerceptiv, or using discussion checkpoints on bCourses, please check out the slidedeck above for email contacts!
 
@@ -58,20 +58,25 @@ Student lead: Rebecca Dang
 
 > Improved Just the Class to include GitHub actions that utilize axe GitHub Actions to check for accessibility. Full project description coming soon!
 
-* Example website: [[link]([https://berkeley-cdss.github.io/berkeley-class-site/)]
-* GitHub: [[link](https://github.com/berkeley-cdss/berkeley-class-site)]
+* [Example website]([https://berkeley-cdss.github.io/berkeley-class-site/)
+* [Berkeley Class Template GitHub](https://github.com/berkeley-cdss/berkeley-class-site)
 
 ### Seating Tool
 
-Student lead: Yu Long
+Student lead: TBD
 
 > Full project description coming soon!
+
+* [Seating GitHub](https://github.com/berkeley-cdss/seating)
 
 ### Flextensions
 
-Student lead: Jordan Schwartz
+Student lead: Edwin Vargas, Conan Smallwood
 
 > Full project description coming soon!
+> Documentation has been heavily updated to support more courses.
+
+* [Flextensions GitHub](https://github.com/berkeley-cdss/extensions)
 
 ### Seamless Learning Tools Lunches
 
