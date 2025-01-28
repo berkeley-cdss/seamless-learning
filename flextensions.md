@@ -19,6 +19,9 @@ Flextensions is a tool for automating assigment extensions---from student reques
 * [Spring 2024]
   * Jordan Schwartz and Yuerou Tang presented Flextensions at SIGCSE 2024!
   * Dana Benedicto finished up her Data Science Honors Thesis on early usage of Flextensions in Data Science courses!
+  :w
+
+---
 
 ## Project Overview
 
@@ -45,15 +48,7 @@ from the 2024 Teaching and Learning Conference at UC Berkeley, presented by Jord
 * [Flextensions GitHub](https://github.com/berkeley-cdss/extensions) Actively maintained by Seamless Learning Team.
 * There is also a CS161 extensions GitHub, which we are slowly phasing out. 
 
-## Tool Support
-At present, Flextensions is supported by generous time from instructors and course staff using this tool in their classes. We are looking for a way to support this tool more widely for any course instructors, regardless of software fluency.
-
-## History and Faculty involvement
-
-The public Flextensions tool was developed in Spring 2022 CS161: Computer Security, taught by Nick Weaver. Several TAs including Shomil Jain, Peyrin Kao, Vron Vance, and Zephyr Barkan wrote and contributed to the first iteration of this tool, along with an accommodations policy that encouraged student usage. Fuzail Shakir wrote the first Flextensions experience report in his May 2023 MS EECS Technical Report, advised by Armando Fox.
-
-Starting Summer 2023, Flextensions software and maintenance has been integrated into software development and maintenance projects sponsored by the Seamless Learning Team, run by Michael Ball and Lisa Yan.
-In Fall 2023, Narges Norouzi was integral in kicking off research projects studying the impact of Flextensions on student learning. Also in Fall 2023, this tool became widely used by almost all Data Science Undergraduate Studies (DSUS) courses; Silas Santini, DSUS Software Engineer, has supported software tool onboarding for different DSUS courses.
+---
 
 ## Research and Development
 
@@ -75,3 +70,19 @@ Since 2023, this project has spawned numerous opportunities for undergraduate an
 * [proceedings, poster] Yuerou Tang, Jacob Yim, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi. "Supporting Mastery Learning with Flexible Extensions." In Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE), Portland, OR, March 2024. [doi](https://doi.org/10.1145/3626253.3635615), [poster](https://docs.google.com/drawings/d/1z_uoNy8kQywQ6XC2djNtCmrUxoORkBBnLoCXQO26Gq0/edit?usp=drive_link)
 * [talk] Lisa Yan and Michael Ball. Council of College Deans Micro Grant presentation,  UC Berkeley. January 2024. [slides](https://docs.google.com/presentation/d/1QDADS4dZagDvUNSZcdn6OXXACeX_KEXXHv-9gqwcep0/edit?usp=drive_link)
 * [technical report] Fuzail Shakir, “Flextensions: Exploring the Impact of Flexible Extensions,” Armando Fox and Dan Garcia, Editors, EECS Department, University of California, Berkeley, Technical Report UCB/EECS-2023-117, May 2023. [report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-117.html)
+
+---
+
+## Additional Information
+
+### Tool Support
+At present, Flextensions is supported by generous time from instructors and course staff using this tool in their classes. We are looking for a way to support this tool more widely for any course instructors, regardless of software fluency.
+
+### History and Faculty involvement
+
+Flextension is a tool built on the shoulders of many faculty, TAs, and students in EECS and Data Science.
+The public Flextensions tool was developed in Spring 2022 CS161: Computer Security, taught by Nick Weaver. Several TAs including Shomil Jain, Peyrin Kao, Vron Vance, and Zephyr Barkan wrote and contributed to the first iteration of this tool, along with an accommodations policy that encouraged student usage. Fuzail Shakir wrote the first Flextensions experience report in his May 2023 MS EECS Technical Report, advised by Armando Fox.
+
+Starting Summer 2023, Flextensions software and maintenance has been integrated into software development and maintenance projects sponsored by the Seamless Learning Team, run by Michael Ball and Lisa Yan.
+In Fall 2023, Narges Norouzi was integral in kicking off research projects studying the impact of Flextensions on student learning. Also in Fall 2023, this tool became widely used by almost all Data Science Undergraduate Studies (DSUS) courses; Silas Santini, DSUS Software Engineer, has supported software tool onboarding for different DSUS courses.
+
