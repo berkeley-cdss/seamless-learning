@@ -71,14 +71,16 @@ Student lead: TBD
 
 ### Flextensions
 
-Student lead: Edwin Vargas, Conan Smallwood
+Student lead: Edwin Vargas Navarro, Conan Smallwood
 
-> Full project description coming soon!
-> Documentation has been heavily updated to support more courses.
+> Flextensions is a tool for automating assignent extensions---from student request to instructor approval. Flextensions works with Google Forms and Gradescope; Canvas/bCourses support is in development.
 
+* [Flextensions page]({{site.base_url}}flextensions): General updates, recent research papers and student projects, etc.
 * [Flextensions GitHub](https://github.com/berkeley-cdss/extensions)
 
 ### Seamless Learning Tools Lunches
+
+[Spring 2025] This semester, we are piloting a **TA biweekly best practices BYOL**. Tools Lunches will be held monthly in this timeslot!
 
 We run a monthly lunch for EECS, Data Science, and Statistics TAs and instructors to share their cool classroom technologies. The inaugural set of these lunches in AY23-24 was awesome. We covered everything from Gradescope, EdStem, and DataHub to super-customized course tools for gradebooks, office hours queues...you name it!
 * All Tools Lunches Slides (requires UC Berkeley log-in): [[link](https://drive.google.com/drive/folders/1IEKKlv2f8ibPgFQPbAPjOkKzw5cgUzdz?usp=drive_link)]
