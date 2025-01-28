@@ -4,6 +4,8 @@ Flextensions is a tool for automating assigment extensions---from student reques
 
 **AY24-25 Student leads**: Edwin Vargas Navarro, Conan Smallwood
 
+**Faculty contact**: Lisa Yan and Michael Ball, EECS/Data Seamless Learning Team
+
 ## Recent Updates
 
 * [Spring 2025]
@@ -73,6 +75,3 @@ Since 2023, this project has spawned numerous opportunities for undergraduate an
 * [proceedings, poster] Yuerou Tang, Jacob Yim, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi. "Supporting Mastery Learning with Flexible Extensions." In Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE), Portland, OR, March 2024. [doi](https://doi.org/10.1145/3626253.3635615), [poster](https://docs.google.com/drawings/d/1z_uoNy8kQywQ6XC2djNtCmrUxoORkBBnLoCXQO26Gq0/edit?usp=drive_link)
 * [talk] Lisa Yan and Michael Ball. Council of College Deans Micro Grant presentation,  UC Berkeley. January 2024. [slides](https://docs.google.com/presentation/d/1QDADS4dZagDvUNSZcdn6OXXACeX_KEXXHv-9gqwcep0/edit?usp=drive_link)
 * [technical report] Fuzail Shakir, “Flextensions: Exploring the Impact of Flexible Extensions,” Armando Fox and Dan Garcia, Editors, EECS Department, University of California, Berkeley, Technical Report UCB/EECS-2023-117, May 2023. [report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-117.html)
-
-# Contact
-Lisa Yan and Michael Ball, EECS/Data Faculty
