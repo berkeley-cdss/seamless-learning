@@ -24,8 +24,10 @@ Jump to:
 
 Over 20 TAs across EECS and Data Science contributed to our **[a11y Course Resource Document]({{site.base_url}}a11y)**! Check out this document to implement accessibility (a11y) on your own public course resources.
 
-Additional workshop resources:
+Workshop resources:
+* [a11y Course Resource Document]({{site.base_url}}a11y)
 * [Full Workshop Google Drive](https://drive.google.com/drive/folders/1-_nIXLqzxq8yB02U-6kdKqSfLM1n54RF?usp=drive_link)
+  * [Berkeley Brand slidedeck with A11Y theme](https://docs.google.com/presentation/d/1HPksWtt8zUdwWPkss8zv7Z7CE-QBE_HHIeqV80YqkaQ/edit?usp=sharing)
 * [Workshop Slidedeck](https://docs.google.com/presentation/d/1X05oNONc3sxL3vcmUUKTCO7tYpAMiU1LNhiL_dHQRf0/edit?usp=drive_link)
 * [Website Accessiblity Checklist](https://docs.google.com/document/d/1UlgUX-FvGBtcqX-yazBoAOzvgGrv93J9dU6mEbrEmJs/edit?usp=drive_link) a general checklist of action items for any course website. Also includes the UC Berkeley checklists for content creators and developers.
 
